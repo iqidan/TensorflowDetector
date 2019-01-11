@@ -8,6 +8,11 @@ Tensorflow android test
 ```gradle
 	implementation 'org.tensorflow:tensorflow-android:1.6.0'
 ```
+	or(最新版本)
+```gradle
+	implementation 'org.tensorflow:tensorflow-android:+'
+```
+
 
 	本工程的依赖如下
 ```gradle
