@@ -39,8 +39,8 @@ Tensorflow android test
 	在AndroidManifest.xml添加如下代码:
 ```xml
 	<uses-permission android:name="android.permission.CAMERA" />
-    <uses-feature android:name="android.hardware.camera" />
-    <uses-feature android:name="android.hardware.camera.autofocus" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+	<uses-feature android:name="android.hardware.camera" />
+    	<uses-feature android:name="android.hardware.camera.autofocus" />
+    	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    	<uses-permission android:name="android.permission.RECORD_AUDIO" />
 ```
